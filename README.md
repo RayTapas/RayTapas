@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on Reactjs projects
-- 📫 How to reach me you can email me on tapasray416@gmail.com
+- 📫 How to reach me you can email me on tapasray207@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
